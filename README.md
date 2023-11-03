@@ -65,8 +65,8 @@ docker push <yourusername/yourrepository:tag>
     docker tag backend:latest sainakka/appdeploy:backend-tag2 
     docker tag database:latest sainakka/appdeploy:database-tag4
     docker push sainakka/appdeploy:frontend-tag1
-    docker push sainakka/appdeploy:backend-tag4
-    docker push sainakka/appdeploy:database-tag3
+    docker push sainakka/appdeploy:backend-tag2
+    docker push sainakka/appdeploy:database-tag4
     
   ![image](https://github.com/sainakka5/multi-tier_application_deployment_in_EKS_cluster_using_JENKINS_Automation/assets/136338958/e46dee88-0c5a-4ce7-833d-59bf1d2f292a)
   ![image](https://github.com/sainakka5/multi-tier_application_deployment_in_EKS_cluster_using_JENKINS_Automation/assets/136338958/ce17c2f1-55fb-4957-aeac-bfc44d39cb6b)    
