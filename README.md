@@ -1,3 +1,6 @@
+ ![image](https://github.com/sainakka5/multi-tier_application_deployment_in_EKS_cluster_using_JENKINS_Automation/assets/136338958/ef89ba00-12c2-4b61-96d9-f19ec233fb2c)
+
+
 PROJECT -5 : 
 KUBERNETES CLUSTER OPTIMIZATION AND SCALING FOR MICROSERVICES ARCHITECTURE
 STEPS TO CREATE - Kubernetes Cluster Optimization and Scaling for Microservices Architecture and making pods :
