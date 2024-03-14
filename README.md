@@ -1,4 +1,10 @@
+![WhatsApp Image 2024-03-14 at 10 49 44_16809ebc](https://github.com/sainakka5/multi-tier_application_deployment_in_EKS_cluster_using_JENKINS_Automation/assets/136338958/a0c1b0bd-3e59-481b-9605-711b30d3b730)
+
+![WhatsApp Image 2024-03-14 at 10 49 45_937a2e13](https://github.com/sainakka5/multi-tier_application_deployment_in_EKS_cluster_using_JENKINS_Automation/assets/136338958/2783b2cc-2d85-4e01-927c-1dd039972f14)
+
+ 
  ![image](https://github.com/sainakka5/multi-tier_application_deployment_in_EKS_cluster_using_JENKINS_Automation/assets/136338958/ef89ba00-12c2-4b61-96d9-f19ec233fb2c)
+ 
 
 
 PROJECT -5 : 
